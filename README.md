@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MikaOlala
+- 👀 I’m interested in creating applications/websites/games
+- 🌱 I’m currently learning JavaScript!
+- 😨 I’m a little bug in the developers world. 
