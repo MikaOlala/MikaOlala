@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MikaOlala
 - 👀 I’m interested in creating applications/websites/games
-- 🌱 I’m currently learning JavaScript!
+- 🌱 I’m currently improving my android skills!
 - 😨 I’m a little shrimp in the developers world. 
